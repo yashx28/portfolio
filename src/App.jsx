@@ -52,7 +52,7 @@ const App = () => {
           <h2 className="text-4xl font-bold text-gray-800">Full Stack Web Developer</h2>
           <h3 className="text-2xl mt-2 text-gray-700">Mr. Yash</h3>
           <p className="mt-4 text-gray-600 max-w-md">
-            A Passionate Web Developer and Instructor with 3 years of experience.
+           A passionate Web Developer and Instructor with hands-on experience gained through personal, academic, and freelance projects.”.
           </p>
             <a
     href="/resume.pdf"
